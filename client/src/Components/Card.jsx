@@ -26,16 +26,10 @@ export default function Card() {
           <div className="font-bold text-[20px] text-center mx-auto sm:text-left xl:text-[29px] w-[80%] text-white p-4">
             Explore top Crypto's Like Bitcoin Ethereum and Dogecoin
             <p className=" text-[#c0c0c0]  pt-5 hidden sm:inline-flex font-normal text-[15px] mx-auto  sm:text-[15px] md:text-[15px] lg:text-[15px] xl:text-[15px]">
-              buying and selling cryptocurrencies on a cryptocurrency exchange
-              or trading platform in order to make a profit from the price
-              fluctuations of cryptocurrencies.
+            Buying and selling cryptocurrencies on an exchange or trading platform to profit from the price fluctuations of these digital assets.
             </p>
             <p className=" text-[#d2d1d1]  pt-5 hidden sm:inline-flex font-normal text-[15px] mx-auto  sm:text-[15px] md:text-[15px] lg:text-[15px] xl:text-[15px]">
-              It's important to keep in mind that crypto trading requires
-              discipline and a long-term strategy, as well as the ability to
-              manage risk effectively. It's also recommended to start with a
-              small investment and gradually increase your exposure as you gain
-              experience and knowledge.
+            It's important to remember that crypto trading demands discipline and a long-term strategy, along with effective risk management. Starting with a small investment and gradually increasing your exposure as you gain more experience and knowledge is advisable.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto">
